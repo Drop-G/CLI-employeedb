@@ -1,5 +1,5 @@
 {
-  "name": "employeetrackerdb",
+  "name": "employee-cli",
   "version": "1.0.0",
   "description": "Employee CLI",
   "main": "app.js",

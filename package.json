@@ -1,5 +1,5 @@
 {
-  "name": "employee-cli",
+  "name": "EmployeeManagerCLI",
   "version": "1.0.0",
   "description": "Employee CLI",
   "main": "app.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drop-G/EmployeeTrackerDB.git"
+    "url": "git+https://github.com/Drop-G/EmployeeManagerCLI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Drop-G/EmployeeTrackerDB/issues"
+    "url": "https://github.com/Drop-G/EmployeeManageCLI/issues"
   },
-  "homepage": "https://github.com/Drop-G/EmployeeTrackerDB#readme",
+  "homepage": "https://github.com/Drop-G/EmployeeManagerCLI#readme",
   "dependencies": {
     "inquirer": "^7.3.3"
   }

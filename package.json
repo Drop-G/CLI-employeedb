@@ -1,7 +1,7 @@
 {
   "name": "EmployeeManagerCLI",
   "version": "1.0.0",
-  "description": "Employee CLI",
+  "description": "Employee Manager Command Line Interface",
   "main": "app.js",
   "directories": {
     "lib": "lib",

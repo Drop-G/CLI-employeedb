@@ -1,5 +1,5 @@
 {
-  "name": "EmployeeManagerCLI",
+  "name": "employee-manager-interface",
   "version": "1.0.0",
   "description": "Employee Manager Command Line Interface",
   "main": "app.js",

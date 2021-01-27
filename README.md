@@ -1,20 +1,45 @@
-# Employee Tracker
+# Employee Manager CLI
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Description
+
 This app is a content management solution for managing a company's employees using node, inquirer, and MySQL.
 
-## Employee tracker can do the following:
+## Table of Contents 
 
-  * Add departments, roles, employees
+* [Installation](#installation)
 
-  * View departments, roles, employees
+* [Usage](#usage)
 
-  * Update employee roles
+* [License](#license)
 
-  * Update employee managers
+* [Contributing](#contributing)
 
-  * View employees by manager
+* [Tests](#tests)
 
-## URL of the GitHub repository
-## <a href ="https://github.com/Drop-G/EmployeeTrackerDB">Github</a>
+* [Questions](#questions)
 
+## Installation
 
-* ![Live Video](demo.gif)
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
+
+## License
+
+This project is licensed under the MIT license.
+
+## Tests
+
+To run tests, run the following command:
+
+```
+npm test
+```
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at droppindbs@gmail.com. You can find more of my work at [Drop-G](https://github.com/Drop-G/).
+
